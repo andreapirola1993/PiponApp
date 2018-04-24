@@ -1,0 +1,8 @@
+{
+  "name": "AppPipon",
+  "app_id": "4e30338c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
